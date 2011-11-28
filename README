@@ -1,4 +1,11 @@
 A collection of new and updated examples for use with a range of ENC28J60 based boards.
 These include www.nanode.eu, http://jeelabs.net/projects/hardware/wiki/Ether_Card
 
+Examples:
+
+Pachube RGB LED - control a RGB LED from Pachube dashboard.
+RESTduino - Control port pins with simple url based commands
+TFTP server - Part of the remote code upload project implementing simple TFTP server. 
+
+
 
